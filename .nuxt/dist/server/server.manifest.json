@@ -1,0 +1,17 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/hero.js": "components/hero.js",
+    "components/loading.js": "components/loading.js",
+    "pages/index.js": "pages/index.js",
+    "pages/movies/_movieid.js": "pages/movies/_movieid.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/hero.js": "components/hero.js.map",
+    "components/loading.js": "components/loading.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/movies/_movieid.js": "pages/movies/_movieid.js.map",
+    "server.js": "server.js.map"
+  }
+}
